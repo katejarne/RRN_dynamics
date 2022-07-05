@@ -1,5 +1,9 @@
 # RRN_dynamics
 Analysis of RNN  (paper under review, preprint https://arxiv.org/abs/2005.13074):
+Paper: Different eigenvalue distributions encode the same temporal tasks in recurrent neural networks.
+
+https://link.springer.com/article/10.1007/s11571-022-09802-5
+
 
 Simulations were generated using python 3.6.9 Tensorflow version 2.0 and Keras 2.3.1 Following the procedure described previously in https://arxiv.org/abs/1906.01094
 
